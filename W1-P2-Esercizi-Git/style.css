@@ -1,18 +1,11 @@
 title{
-<<<<<<< HEAD
     color: blue;
 }
 
-li{
-    background-color: yellow;
-=======
-    color: red;
-}
 
 li{
     background-color: aquamarine;
 }
 li::marker{
     list-style-type: square;
->>>>>>> Sviluppatore-B
 }
