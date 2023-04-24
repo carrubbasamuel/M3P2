@@ -1,0 +1,10 @@
+title{
+    color: red;
+}
+
+li{
+    background-color: aquamarine;
+}
+li::marker{
+    list-style-type: square;
+}
