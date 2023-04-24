@@ -6,6 +6,6 @@ title{
 li{
     background-color: aquamarine;
 }
-li::marker{
+ul{
     list-style-type: square;
 }
